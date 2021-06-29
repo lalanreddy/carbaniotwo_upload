@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/carbaniotwo_upload/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/carbaniotwo_upload/static/js/main.2d1de707.chunk.js",
+    "main.js.map": "/carbaniotwo_upload/static/js/main.2d1de707.chunk.js.map",
+    "runtime-main.js": "/carbaniotwo_upload/static/js/runtime-main.77a1eac9.js",
+    "runtime-main.js.map": "/carbaniotwo_upload/static/js/runtime-main.77a1eac9.js.map",
+    "static/js/2.b8550a94.chunk.js": "/carbaniotwo_upload/static/js/2.b8550a94.chunk.js",
+    "static/js/2.b8550a94.chunk.js.map": "/carbaniotwo_upload/static/js/2.b8550a94.chunk.js.map",
+    "static/js/3.2dff4392.chunk.js": "/carbaniotwo_upload/static/js/3.2dff4392.chunk.js",
+    "static/js/3.2dff4392.chunk.js.map": "/carbaniotwo_upload/static/js/3.2dff4392.chunk.js.map",
+    "index.html": "/carbaniotwo_upload/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/carbaniotwo_upload/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.b8550a94.chunk.js.LICENSE.txt": "/carbaniotwo_upload/static/js/2.b8550a94.chunk.js.LICENSE.txt",
+    "static/media/flag.84ab7612.png": "/carbaniotwo_upload/static/media/flag.84ab7612.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.77a1eac9.js",
+    "static/js/2.b8550a94.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.2d1de707.chunk.js"
+  ]
+}
